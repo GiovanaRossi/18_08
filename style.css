@@ -1,16 +1,36 @@
+body{
+    background-color: black;
+}
 header{
-    background-color: blue;
+    background-color: rgb(6, 6, 39);
     height: 200px;
 }
 main{
     background-color: cornflowerblue;
     height: auto;
+    margin-top: 1%;
 }
 aside{
-    background-color: darkblue;
+    background-color: rgb(35, 79, 161);
     height: auto;
+    margin-top: 1%;
 }
 footer{
-    background-color: lightblue;
+    background-color: rgb(6, 6, 39);
     height: 100px;
+    margin-top: 3%;
+}
+.list-group{
+    padding-top: 7%;
+}
+.float-left{
+    padding-top: 3%;
+    padding-left: 2%;
+}
+.float-right{
+    padding-top: 3%;
+    padding-left: 2%;
+}
+.row{
+    padding-top: 1%;
 }
