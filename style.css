@@ -1,0 +1,16 @@
+header{
+    background-color: blue;
+    height: 200px;
+}
+main{
+    background-color: cornflowerblue;
+    height: auto;
+}
+aside{
+    background-color: darkblue;
+    height: auto;
+}
+footer{
+    background-color: lightblue;
+    height: 100px;
+}
